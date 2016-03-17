@@ -70,7 +70,7 @@ Issues:
 
 * fair dealing and exemptions
 * getting clearances
-* what does substantial mean?
+* what does substantial even mean?
 
 Useful resources:
 
@@ -83,10 +83,12 @@ The meanings of Open Access:
 
 * Freely available & reusable
 * Green (repositories) vs Gold (journals) Open Access
-* Keep your copyright!
+* Different stages in the life of an article
 
 Issues:
 
+* Keep your copyright!
+* Embargo periods?
 * Peer review / impact ??
 * Beware predatory publishers
 
@@ -94,6 +96,14 @@ Finding an Open Access journal:
 
 * [Directory of Open Access Journals](https://doaj.org/)
 * [Sherpa / Romeo](http://www.sherpa.ac.uk/romeo/index.php?la=en&fIDnum=|&mode=simple)
+
+----
+
+ACTIVITY
+
+Find an open access journal in your field using DOAJ.
+
+-----
 
 Useful resources:
 
@@ -108,6 +118,14 @@ Research profiles:
 * [ORCID](http://orcid.org/) -- if you do one thing, do this...
 * Academia.edu (BUT [Academia NOT edu](http://www.plannedobsolescence.net/academia-not-edu/))
 * Google Scholar
+
+----
+
+ACTIVITY
+
+Create an ORCID ID NOW!
+
+----
 
 Social media possibilities:
 
@@ -131,8 +149,7 @@ Useful resources:
 
 ## Tool bazaar
 
-* Markdown (Byword)
-* [DataBasic.io](https://www.databasic.io/en/)
-* Zotero
-* Voyant
-* Programming Historian
+* FOR WRITING -- [MultiMarkdown]()https://rawgit.com/fletcher/human-markdown-reference/master/index.html (Byword and Marked)
+* NEW (for fun) -- [DataBasic.io](https://www.databasic.io/en/)
+* OLD (but good) -- [Zotero](https://www.zotero.org/)
+* [Voyant Tools](http://voyant-tools.org/)
