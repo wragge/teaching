@@ -32,7 +32,7 @@ IT'S A MESS!
 
 * [Library Guide to Copyright](http://canberra.libguides.com/content.php?pid=273640&sid=2255896)
 * [Copyright information for clients](http://www.nsla.org.au/sites/www.nsla.org.au/files/publications/NSLA.copyright_information_for_clients_2011.pdf) (NSLA)
-* [Duration of Copyright](file:///Users/s427635/Downloads/Duration%20of%20Copyright%20(G023v17\)%20FINAL.pdf)  (Australian Copyright Council)
+* [Duration of Copyright](http://www.copyright.org.au/acc_prod/AsiCommon/Controls/BSA/Downloader.aspx?iDocumentStorageKey=7384f456-8e8a-4c69-97ca-206bb46df5da&iFileTypeCode=PDF&iFileName=Duration%20of%20Copyright)  (Australian Copyright Council)
 
 ###Some possible scenarios
 
