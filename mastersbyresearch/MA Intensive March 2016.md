@@ -17,7 +17,13 @@ Do we all know what we're doing?
 
 ##3. Copyright and Open Access
 
-###Quiz -- Which of these are out of copyright?
+----
+
+ACTIVITY 
+
+Which of these are out of copyright?
+
+----
 
 Things to ponder:
 
@@ -58,6 +64,14 @@ Places to look:
 * [Gif It Up](http://gifitup2015.tumblr.com/)
 * [Flickr](https://www.flickr.com/)
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+----
+
+ACTIVITY
+
+Find an open image of...
+
+----
 
 Useful resources:
 
