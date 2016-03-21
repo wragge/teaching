@@ -15,7 +15,7 @@ Do we all know what we're doing?
 
 * Problems?
 
-##3. Copyright and Open Access
+##3. Fun with Copyright and Open Access
 
 ----
 
