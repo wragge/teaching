@@ -32,6 +32,8 @@
 
 9022 -- [Digital Media Literacy](http://www.canberra.edu.au/coursesandunits/unit?unit_cd=9022&version_number=2&rownum=1331) UG 1st year
 
+9027 -- [Media, Technology and Society](http://www.canberra.edu.au/coursesandunits/unit?unit_cd=9027) UG 1st year
+
 9922 -- [Digital Campaigning](http://www.canberra.edu.au/coursesandunits/unit?unit_cd=9922&version_number=1&rownum=5608) UG 2nd year
 
 8131 -- [Communication Technologies and Change](http://www.canberra.edu.au/coursesandunits/unit?unit_cd=8131) UG 3rd year
