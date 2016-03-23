@@ -16,7 +16,7 @@ On completion of this unit, students will be able to:
 | Week  | Topic | Activity |
 | ----- | ----- | ----- |
 | 1  | **Digital survival skills**: Introduction to the unit. Overview of digital tools and techniques. | Getting comfortable with consoles and command lines |
-| 2 | **Doing it in public**: Digital history/humanities has a strong commitment to openness and public engagement. Are public history and digital history the same thing? Are their limits on openness?  | Setting up a blog. Using social media. |
+| 2 | **Doing it in public**: Digital history/humanities has a strong commitment to openness and public engagement. Are public history and digital history the same thing? Are there limits on openness?  | Setting up a blog. Using social media. |
 | 3 | **Collections and contexts**: How have digital collections changed the practice of history? What do digital collections show and what do they hide? | Exercises in understanding search and the algorithms that shape our online experience. |
 | 4  | **Big data / small data**: As more and more cultural heritage content becomes available online how do we grapple with the challenges and opportunities of digital abundance? What do we lose or gain as we shift scales between big data and small stories? | Getting and cleaning data: using CSVs, OpenRefine and APIs |
 | 5  | **Analysing texts**: What happens when we treat texts as data? What sorts of patterns can we reveal and extract? How might these techniques enrich collection descriptions? | Using Voyant / QueryPic etc. From word clouds to NER. |
