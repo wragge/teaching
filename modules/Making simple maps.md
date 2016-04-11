@@ -38,7 +38,7 @@ This tutorial uses free (or [freemium](https://en.wikipedia.org/wiki/Freemium)) 
 ## More advanced maps with CartoDB
 
 * [Getting started with CartoDB](activities/cartodb_getting_started.md)
-* [Merging data sources](activities/cartdb_merge_datasets.md)
+* [Merging data sources](activities/cartodb_merge_datasets.md)
 * Sharing maps
 
 ## Storytelling with maps
