@@ -8,7 +8,7 @@
 
 ## Uploading data
 
-For this exercise we'll be working with a CSV file containing data about [bicycle accidents in Canberra](https://www.dropbox.com/s/nf7qtckth8blhen/Cyclist_Crashes.csv?dl=0). Download the file to your computer and save it somewhere convenient. Now we'll upload the CSV file to CartoDB.
+For this exercise we'll be working with a CSV file containing data about [bicycle accidents in Canberra](https://dl.dropbox.com/s/nf7qtckth8blhen/Cyclist_Crashes.csv?dl=0). Download the file to your computer and save it somewhere convenient. Now we'll upload the CSV file to CartoDB.
 
 * Login in to CartDB and select 'Your datasets' from the dropdown at the top of the page.
 * Click on the 'New dataset' button.

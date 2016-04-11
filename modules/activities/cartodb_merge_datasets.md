@@ -7,7 +7,7 @@ A common mapping task is to calculate and display the number of points that are 
 In this exercise we'll be mapping the number of playgrounds in the ACT by administrative district. We'll use two datasets from data.act.gov.au:
 
 * [Town and district playgrounds](https://dl.dropbox.com/s/hfyuybsxcryfaf8/Town_And_District_Playgrounds.csv?dl=0)
-* [ACT administrative boundaries](https://www.dropbox.com/s/lpho1jgznh7261n/ACT%20Administrative%20Boundaries.zip?dl=0)
+* [ACT administrative boundaries](https://dl.dropbox.com/s/lpho1jgznh7261n/ACT%20Administrative%20Boundaries.zip?dl=0)
 
 Download these datasets to your computer and save them somewhere obvious (such as your desktop).
 

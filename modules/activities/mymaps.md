@@ -42,7 +42,7 @@ Try:
 
 We're now going to import some external data to populate a new layer.
 
-* Our dataset is a list of bus stops in Canberra -- download the CSV file to your desktop.
+* Our dataset is a list of bus stops in Canberra -- [download the CSV file](https://dl.dropbox.com/s/61pwz2g7ako8rxm/Bus_stop_locations_around_the_ACT.csv?dl=0) to your desktop.
 * In the My Maps menu box click on 'Add layer'. A new 'Untitled layer' will appear.
 * Click on 'Import', then select and upload the CSV file from your desktop.
 * You'll then be asked which fields in your file provide spatial data -- the latitude and longitude of the bus stops. 
