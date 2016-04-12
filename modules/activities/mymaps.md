@@ -1,6 +1,3 @@
-Author: Tim Sherratt
-Date: 7 April 2016
-
 # Creating a map with Google My Maps
 
 ## Getting started
