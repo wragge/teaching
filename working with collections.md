@@ -1,30 +1,17 @@
 #Working with collections
 
-##Unit description
+## Description
 
-### old (2014)
+This unit is an introduction to cultural heritage collections and the techniques used to describe, manage, use, and explore them. Collections document our lives, memories, and culture. Creating and maintaining collections is a core activity of most galleries, libraries, archives, and museums. Students will identify key issues affecting the development of collections, and explore how digital technologies can be used to improve public access and engagement. Through a series of practical examples, students will review systems and standards used in the documentation and display of collections, and gain experience in the use of digital tools to capture and enrich collection data.
 
-The unit is an introduction to collection management. Museum collections, large or small, require techniques of control, recording and maintenance. These techniques are required from the moment an object is identified for acquisition, along the chain of possession into the collection, allowing for valuation, storage and access (for example, exhibition, loans, community and research access). The role of collection management in association with departments, such as conservation and exhibitions, is also included. A case study approach is used.
-
-### new
-
-This unit is an introduction to the rich variety of cultural heritage collections and the techniques used to describe, manage, use, and explore them. The unit will examine both the social and technological contexts within which collections are created and described. Systems and standards used in the documentation of collections will be critically assessed through a series of practical examples. Digital technologies bring new challenges in the management of digitised and born digital resources, but also offer exciting new opportunities for enrichment and discovery. This unit will provide a solid grounding in current collection practices, as well as an understanding of these expanding possibilities.
-
-## Learning outcomes
+## Unit learning outcomes
 
 On completion of this unit, students will be able to: 
 
-### old
-
-1. understand the key issues associated with collection management systems;
-2. research and generate ideas for exhibition development.
-
-### new
-
-1. understand the technical requirements of describing and managing collections;
-2. appreciate the social, political, and institutional contexts within which collections are created and described;
-3. use online tools to create, describe, and enrich collections; 
-4. and identify opportunities for enhancing discovery and use of collections.
+1. discuss the social, political, technological, and institutional contexts within which collections are created and described;
+2. explain the technical requirements for describing and managing collections;
+3. recognise how digital tools can be used to describe and enrich collections; 
+4. and identify opportunities for enhancing the discovery and use of collections.
 
 ## Timetable
 
@@ -44,8 +31,3 @@ On completion of this unit, students will be able to:
 | 12  | **Interfaces**: How do we use collections online? What alternatives are there to the familiar search box? |  |
 | 13  | Review |  |
 
-## Assessment
-
-1. Participation and presentation: Moodle reflections on weekly readings and activity. Presentation on the readings in assigned week.
-2. Collection proposal: Proposal to a fictional collecting organisation to accession a new collection -- address collection policy, significance and ethical issues; describe appropriate descriptive framework and metadata standards; identify issues for ongoing management and use and possibilities for exhibitions.
-3. Develop online collection
